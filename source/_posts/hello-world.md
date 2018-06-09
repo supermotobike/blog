@@ -9,18 +9,14 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/blog/master/source/im
 
 ![騎乘環境](/img/Selection_283.png)
 
-## Quick Start
+在馬路上必須要注意全方位的事情，環繞四周的車輛、行人、交通號誌、標誌、對向來車、天氣等因素，且在三寶環繞的台灣，除了交通號誌外，應該要能夠注意三件事情「行人、速度、安全空間」
 
-### Create a new post
+## 防衛性駕駛觀念
+### 1.行人
+騎車在路上必須要特別注意的就是行人，行人比起機車更難在路上被發覺，尤其是晚上沒有太多燈光的時候，在小巷子內的時候，車與車之間，必須要假設會有人在那邊「要衝出來」，這是一個很大的死角。
 
-``` bash
-$ hexo new "My New Post"
-```
+![騎乘環境](/img/Selection_001.png)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 2.安全空間
 
-### Run server
-
-``` bash
-$ hexo server
-```
+![騎乘環境](/img/Selection_283.png)
