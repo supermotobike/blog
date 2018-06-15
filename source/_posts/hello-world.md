@@ -66,7 +66,10 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 3. 轉頭過去再次確認是否可以進行切換車道或轉彎
 4. 進行轉彎或是變換車道
 
-## 預設自己在路上是隱形的
+## 車道選擇
+
+![ ](/img/lanepositions.gif)
+## MSF 機車安全讀物 -預設自己在路上是隱形的
 
 ![ ](/img/msf.jpg)
 
