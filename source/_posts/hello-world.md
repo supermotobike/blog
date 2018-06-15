@@ -7,7 +7,7 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 ## 什麼是防衛性駕駛
 防衛性駕駛是，除了自己遵守交通規矩之外，需要主動採取各種措施，為可能發生的危險狀況事先做準備。
 
-![騎乘環境](/img/Selection_283.png)
+![ ](/img/Selection_283.png)
 
 在馬路上必須要注意全方位的事情，環繞四周的車輛、行人、交通號誌、標誌、對向來車、天氣等因素，且在三寶環繞的台灣，除了交通號誌外，應該要能夠注意「行人、安全空間」
 
@@ -15,7 +15,7 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 ### 1.行人
 騎車在路上必須要特別注意的就是行人，行人比起機車更難在路上被發覺，尤其是晚上沒有太多燈光的時候，在小巷子內的時候，車與車之間，必須要假設會有人在那邊「要衝出來」，這是一個很大的死角。
 
-![經過這樣的小巷子時，你覺得有多少地方會出現潛在的危險呢](/img/001.png)
+![ ](/img/001.png)
 
 ### 2.安全空間
 防衛性駕駛最重要的就是安全空間
@@ -43,10 +43,10 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 
 - 與路邊停車的車輛保持適當距離
 
-在英國，會把「離停著的汽車旁不到1.5公尺」的空間稱之為「死亡區域」(zone of death)
+在英國，會把「離停著的汽車旁不到1.5公尺」的空間稱之為「門區」(Door zone)
 政府會宣導「騎士行駛時，千萬不要靠近停著的汽車旁邊」
 因為汽車駕駛人的教育跟訓練再怎麼好，總是有「汽車主忘記先往後看再開門」的可能。
-![死亡區域](/img/doorzone.jpg)
+![ ](/img/doorzone.jpg)
 
 
 ## 正確的變換車道與轉彎方式
@@ -55,7 +55,8 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 必須要確認附近車輛後再進行轉彎的動作。
 
 確認後方車輛大家都知道需要看後照鏡，但是看後照鏡還是會有死角的
-![死角](/img/003.jpg)
+![ ](/img/003.jpg)
+
 
 所以我們必須多加一個動作，國外稱為「shoulder check」
 讓你的臉轉向肩膀的方向，來檢視後方有無來車
@@ -67,5 +68,5 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 
 ## 預設自己在路上是隱形的
 
-![msf](/img/msf.jpg)
+![ ](/img/msf.jpg)
 
