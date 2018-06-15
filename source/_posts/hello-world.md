@@ -68,7 +68,7 @@ thumbnail: https://raw.githubusercontent.com/supermotobike/supermotobike.github.
 
 ## 車道選擇
 
-![ ](/img/LanePosition.gif)
+![ ](/img/004.jpg)
 ## MSF 機車安全讀物 -預設自己在路上是隱形的
 
 ![ ](/img/msf.jpg)
